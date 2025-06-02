@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467804407526",
+    "project_id": "projectapi-fc6ca",
+    "storage_bucket": "projectapi-fc6ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467804407526:android:780b35783cac2b00905d27",
+        "android_client_info": {
+          "package_name": "com.example.belajarapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCULwNf0zJrxoOzQn8sSgVpHUXHCble0ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
